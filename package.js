@@ -1,6 +1,6 @@
 Package.describe({
   name: "ssadams11:meteor-sigma",
-  summary: "Sigma is a library dedicated to graph drawing.  Forked from uzumaxy:meteor-sigma 1.0.3 to create a non-minified version to allow sigma.js debugging and enhancement",
+  summary: "Sigma is a library dedicated to graph drawing.  Full source for debugging and modification",
   version: "1.0.4",
   git: "https://github.com/ssadams11/meteor-sigma"
 });
