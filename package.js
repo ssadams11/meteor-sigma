@@ -1,5 +1,5 @@
 Package.describe({
-  name: "ssadams11:meteor-sigma",
+  name: "ssadams:meteor-sigma",
   summary: "Sigma is a library dedicated to graph drawing.  Full source for debugging and modification",
   version: "1.0.4",
   git: "https://github.com/ssadams11/meteor-sigma"
